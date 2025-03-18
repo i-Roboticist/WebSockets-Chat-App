@@ -1,0 +1,6 @@
+@Fleck_Websockets_HostAddress = http://localhost:5150
+
+GET {{Fleck_Websockets_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

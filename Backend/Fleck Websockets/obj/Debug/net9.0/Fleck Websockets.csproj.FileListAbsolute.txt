@@ -1,0 +1,68 @@
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\appsettings.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.staticwebassets.endpoints.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.exe
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.deps.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.runtimeconfig.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.pdb
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Fleck.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.csproj.AssemblyReference.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.AssemblyInfoInputs.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.AssemblyInfo.cs
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.csproj.CoreCompileInputs.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\scopedcss\bundle\Fleck Websockets.styles.css
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.Fleck Websockets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.Fleck Websockets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.build.Fleck Websockets.props
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Fleck Websockets.props
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Fleck Websockets.props
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck We.B47329F0.Up2Date
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\refint\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.pdb
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.genruntimeconfig.cache
+C:\Users\djdan\Documents\Code\VSCode\CSharp\Fleck Websockets\obj\Debug\net9.0\ref\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\appsettings.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.staticwebassets.endpoints.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.exe
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.deps.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.runtimeconfig.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck Websockets.pdb
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Fleck.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.csproj.AssemblyReference.cache
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.AssemblyInfoInputs.cache
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.AssemblyInfo.cs
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.csproj.CoreCompileInputs.cache
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\scopedcss\bundle\Fleck Websockets.styles.css
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.Fleck Websockets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.Fleck Websockets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.build.Fleck Websockets.props
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Fleck Websockets.props
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Fleck Websockets.props
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck We.B47329F0.Up2Date
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\refint\Fleck Websockets.dll
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.pdb
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\Fleck Websockets.genruntimeconfig.cache
+C:\Users\djdan\Documents\Code\VSCode\FullStack Projects\ExtremelyBasicChatApp\Backend\Fleck Websockets\obj\Debug\net9.0\ref\Fleck Websockets.dll
