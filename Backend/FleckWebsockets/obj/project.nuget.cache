@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IKu+ZNKKZw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djdan\\Documents\\Code\\VSCode\\FullStack Projects\\ExtremelyBasicChatApp\\Backend\\FleckWebsockets\\FleckWebsockets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djdan\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512",
+    "C:\\Users\\djdan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\djdan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
